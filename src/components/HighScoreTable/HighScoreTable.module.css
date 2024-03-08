@@ -1,0 +1,23 @@
+.highScoreTable {
+    margin: 20px auto;
+    width: 80%;
+    border-collapse: collapse;
+    color: #ddd;
+    background-color: #333;
+    max-width: 40vw;
+}
+
+.highScoreTable caption {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: left;
+    padding: 5px;
+    background-color: #222;
+    color: #fff;
+}
+
+.highScoreTable td {
+    border: 1px solid #444;
+    padding: 8px;
+    text-align: left;
+}
